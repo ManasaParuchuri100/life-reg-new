@@ -1,6 +1,6 @@
 # Hearthbound - PixelRealm: Life RPG
 
-An original pixel-art and 3D voxel-inspired Life RPG world where real-life daily discipline, workouts, and creative habits evolve your playable realm, unlock buildings, and level up your character.
+Life RPG transforms everyday goals and habits into an interactive RPG experience. Complete real-world quests, earn XP and gold, build streaks, develop your attributes, customize your character, and grow a living voxel world that reflects your progress.
 
 ---
 
